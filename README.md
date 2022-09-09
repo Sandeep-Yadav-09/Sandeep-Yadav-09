@@ -33,9 +33,14 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep-Yadav-09&&theme=xcode)](https://github.com/Sandeep-Yadav-09)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-Yadav-09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sandeep-Yadav-09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Yadav-09&show_icons=true&locale=en&theme=tokyonight" alt="Sandeep-Yadav-09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Yadav-09&&theme=tokyonight" alt="Sandeep-Yadav-09" /></p>
 
-<!---a href="  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a--->
-<!---a href="   " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a--->
+
+<!---a href="  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepyadav" height="30" width="40" /></a--->
+<!---a href="   " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_yadav" height="30" width="40" /></a--->
 
 <!---
 Sandeep-Yadav-09/Sandeep-Yadav-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
