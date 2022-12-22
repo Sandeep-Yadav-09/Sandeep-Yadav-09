@@ -36,7 +36,7 @@
 <!---[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep-Yadav-09&&theme=xcode)]--->(https://github.com/Sandeep-Yadav-09)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-Yadav-09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sandeep-Yadav-09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Yadav-09&show_icons=true&locale=en&theme=khaki" alt="Sandeep-Yadav-09" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Yadav-09&&theme=tokyonight" alt="Sandeep-Yadav-09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Yadav-09&&theme=lime" alt="Sandeep-Yadav-09" /></p>
 
 
 <!---a href="  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepyadav" height="30" width="40" /></a--->
