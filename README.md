@@ -34,7 +34,7 @@
 </p>
 
 <!---[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep-Yadav-09&&theme=xcode)](https://github.com/Sandeep-Yadav-09)--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-Yadav-09&show_icons=true&locale=en&layout=compact&theme=cerulean" alt="Sandeep-Yadav-09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-Yadav-09&show_icons=true&locale=en&layout=compact&theme=neovim" alt="Sandeep-Yadav-09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Yadav-09&show_icons=true&locale=en&theme=khaki" alt="Sandeep-Yadav-09" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Yadav-09&&theme=lime" alt="Sandeep-Yadav-09" /></p>
 
